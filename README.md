@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🎧 Auryx-Studio
 
-<!--
-**Auryx-studio/Auryx-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Auryx-Studio** — a creative dev studio focused on **apps, tools, and experiences** that combine logic, design, and technology.  
 
-Here are some ideas to get you started:
+- **Owner** - [Sqrilizz](github.com/Sqrilizz)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🧩 **QuantumKit** — encryption, puzzles & interactive logic  
+- 📚 **Learnly** — AI-powered learning app  
+- 🌐 Websites, apps & creative experiments  
+
+---
+
+### 🌐 Connect
+- [Website](https://sqrilizz.xyz)  
+- [Bio](https://sqrilizz.fun)  
+- [YouTube](https://youtube.com/@sqrilizz)  
+- [Instagram](https://instagram.com/Matve1m0k1)  
+- Discord: `sqrilizzy`  
+
+---
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Auryx-Studio&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Auryx-Studio&layout=compact&theme=radical)
