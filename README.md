@@ -2,7 +2,7 @@
 
 **Auryx-Studio** — a creative dev studio focused on **apps, tools, and experiences** that combine logic, design, and technology.  
 
-- **Owner** - [Sqrilizz](https://github.com/Sqrilizz
+- **Owner** - [Sqrilizz](https://github.com/Sqrilizz)
 ---
 
 ### 🚀 Projects
